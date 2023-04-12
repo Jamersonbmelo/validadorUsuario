@@ -11,8 +11,12 @@ Projeto em andamento, sendo realizado por integrantes do time da minha sala no S
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``Html5``
-- ``Css5``
+- ``Css3``
 - ``Javascript``
+- ``Photoshop``
+- ``Favicon``
+- ``fontawesome`
+
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Jamersonbmelo/validadorUsuario).
