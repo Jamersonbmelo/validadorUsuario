@@ -6,7 +6,7 @@ Projeto em andamento, sendo realizado por integrantes do time da minha sala no S
 
 ## 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1` `Cadastro de usuario`: Nosso sistema precisa estar apto a cadastrar os usuarios associados ao sistema. Para cadastrar um autor, devem ser informados seu nome, e-mail e senha, válido e único dentro do sistema. Todos os campos são obrigatórios. 
+- `Funcionalidade` `Cadastro de usuario`: Nosso sistema precisa estar apto a cadastrar os usuarios associados ao sistema. Para cadastrar um autor, devem ser informados seu nome, e-mail e senha, válido e único dentro do sistema. Todos os campos são obrigatórios. 
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
